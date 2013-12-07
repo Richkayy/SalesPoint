@@ -94,6 +94,8 @@
             this.cboProduct.Items.AddRange(new object[] {
             "PAINT",
             "BRUSH",
+            "PEN",
+            "CHALK",
             "COLORS"});
             this.cboProduct.Location = new System.Drawing.Point(108, 24);
             this.cboProduct.Name = "cboProduct";
